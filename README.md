@@ -38,9 +38,9 @@ A Java Runtime Environment
 
 ## Authors
 
-* **Kenneth King** - *Initial work* - [CoinChasers](https://github.com/CoinChasers)
+* **Kenneth King** - *Initial work* - [SimplySmite](https://github.com/SimplySmite)
 
-See also the list of [contributors](https://github.com/CoinChasers/luckpool_tracker/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/SimplySmite/LST/graphs/contributors) who participated in this project.
 
 ## Notes & Acknowledgments
 * https://luckpool.org/ is not my intellectual property, this is simply a community tool for aforementioned site statistic tracking.
