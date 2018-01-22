@@ -6,7 +6,7 @@ This tool can be used as a simple yet effective way to keep track of your base s
 
 This tool is not directory dependant, allowing you to simply unpack the .zip and launch.
 
-[Download V0.01](https://1drv.ms/u/s!AtCaXnCTS_fxaQUvVS0DxOyh1Fc) - Latest Version
+[Download Latest Release](https://github.com/SimplySmite/LST/releases)
 
 ```
 Download .zip file > Unpack > Run LST.jar > Insert mining address
